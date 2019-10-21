@@ -1,0 +1,2 @@
+# autoaws
+Automating aws EC
